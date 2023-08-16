@@ -20,8 +20,8 @@ Print the input and reversed string along with the whether palindrom or not.
 ### Step 7:
 End of the Program.
 ## Program:
-## Developed By: Aadheeshwar.A
-## Register No: 212221230001
+## Developed By: SRINIVAS.u
+## Register No: 212221230108
 ```C#
 using System;
 class HelloWorld
